@@ -147,24 +147,24 @@
 
 <summary>
 <h3 style="display:inline">
+<strong><em>💸 Transfer Money </em></strong></h3>
+</summary>
+<div align="center"> 
+   <img src="./screenshots/SendMoney/Sendmoney1">
+   <img src="./screenshots/SendMoney/Sendmoney2">
+   <img src="./screenshots/SendMoney/Sendmoney3">
+   <img src="./screenshots/SendMoney/Sendmoney4">
+</div>
+
+
+<summary>
+<h3 style="display:inline">
 <strong><em>💳 Pay your bills </em></strong></h3>
 </summary>
 <div align="center">
 
    <img src="./screenshots/elec_bills.jpg">
 </div>
-
-<summary>
-<h3 style="display:inline">
-<strong><em> 💌 Notifications & Ways to send money </em></strong></h3>
-</summary>
-<div align="center"> 
-   <img src="./screenshots/notifications.jpg">
-</div>
-
-
-
-
 
 
 <h2 href="#Contributors">✍️ Contributors</h2>
