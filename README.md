@@ -90,8 +90,6 @@
    <img src="./screenshots/Auth/DoneOTP.png">
    <img src="./screenshots/Auth/Passcode.png">
    <img src="./screenshots/Auth/PasscodeAlert.png">
-
-
 </div>
 
 
