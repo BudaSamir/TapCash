@@ -179,6 +179,15 @@
 </div>
 
 
+<summary>
+<h3 style="display:inline">
+<strong><em>📇 Scan National ID </em></strong></h3>
+</summary>
+<div align="center">
+   <img src="./screenshots/Debts/Debts.png">
+</div>
+
+
 <h2 href="#Contributors">✍️ Contributors</h2>
 <table>
   <tr>
