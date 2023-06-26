@@ -170,11 +170,12 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>💳 Pay your bills </em></strong></h3>
+<strong><em>💳 Smart Card </em></strong></h3>
 </summary>
 <div align="center">
-
-   <img src="./screenshots/elec_bills.jpg">
+   <img src="./screenshots/SmartCard/SmartCard1.png">
+   <img src="./screenshots/SmartCard/SmartCard2.png">
+   <img src="./screenshots/SmartCard/SmartCard3.png">
 </div>
 
 
