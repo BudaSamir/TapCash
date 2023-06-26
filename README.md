@@ -36,15 +36,11 @@
 
 <h2 href="#packages-used">📦 Packages used : </h2>
  <ul>
-
- <li># database_package</li>
   <li>shared_preferences:</li>
   <li>dio:</li>
   <li>curl_logger_dio_interceptor:</li>
-<li># State_management</li>
   <li>bloc:</li>
   <li>flutter_bloc:</li>
-<li>#  design_UI_package</li>
   <li>animated_splash_screen:</li>
   <li>flutter_svg:</li>
   <li>font_awesome_flutter:</li>
@@ -52,7 +48,6 @@
   <li>google_fonts:</li>
   <li>shimmer:</li>
   <li>dots_indicator:</li>
-<li>#  fluttertoast:</li>
   <li>flutter_screenutil:</li>
   <li>smooth_page_indicator: </li>
   <li>card_swiper:</li>
