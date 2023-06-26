@@ -150,10 +150,10 @@
 <strong><em>💸 Transfer Money </em></strong></h3>
 </summary>
 <div align="center"> 
-   <img src="./screenshots/SendMoney/Sendmoney1">
-   <img src="./screenshots/SendMoney/Sendmoney2">
-   <img src="./screenshots/SendMoney/Sendmoney3">
-   <img src="./screenshots/SendMoney/Sendmoney4">
+   <img src="./screenshots/SendMoney/Sendmoney1.png">
+   <img src="./screenshots/SendMoney/Sendmoney2.png">
+   <img src="./screenshots/SendMoney/Sendmoney3.png">
+   <img src="./screenshots/SendMoney/Sendmoney4.png">
 </div>
 
 
