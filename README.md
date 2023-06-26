@@ -32,29 +32,7 @@
     <li><a href="https://flutter.dev/">Flutter</a></li>
  </ul>
 <hr>
-<h2 href="#getting-started">Getting Started</h2>
-<blockquote>
-  <p>This is a list of needed steps to set up your project locally, to get a local copy up and running follow these instructions.
- </p>
-</blockquote>
-<ol>
-  <li><strong><em>Clone the repository</em></strong>
-    <div>
-        <code>$ git clone https://github.com/Orange-Hackathon/Cross-Platform.git</code>
-    </div>
-  </li>
-  <li><strong><em>Install dependencies</em></strong>
-    <div>
-        <code>$ flutter pub get</code>
-    </div>
-  </li>
-  <li><strong><em>Start the application</em></strong>
-    <div>
-        <code>$ flutter run</code>
-    </div>
-  </li>
 
-</ol>
 
 <h2 href="#packages-used">📦 Packages used : </h2>
  <ul>
