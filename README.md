@@ -91,7 +91,7 @@
 <strong><em>🏠 Home</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/home/home.png">
+   <img src="./screenshots/home/homeScreen.png">
 </div>
 
 <summary>
@@ -99,7 +99,6 @@
 <strong><em>👨‍👨‍👦‍👦 Limit your children access </em></strong></h3>
 </summary>
 <div align="center">
-
    <img src="./screenshots/children.jpg">
 </div>
 
