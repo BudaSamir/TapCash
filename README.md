@@ -136,11 +136,13 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>💸 Send to friends </em></strong></h3>
+<strong><em>💵 ADD Money </em></strong></h3>
 </summary>
 <div align="center">
-
-   <img src="./screenshots/send.jpg">
+   <img src="./screenshots/AddMoney/AddMoney1.png">
+   <img src="./screenshots/AddMoney/AddMoney2.png">
+   <img src="./screenshots/AddMoney/AddMoney3.png">
+   <img src="./screenshots/AddMoney/AddMoney4.png">
 </div>
 
 <summary>
