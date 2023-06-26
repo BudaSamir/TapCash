@@ -83,14 +83,13 @@
 </summary>
 <div align="center">
 
-   <img src="./screenshots/Auth/Login.png", width="100" height="100">
+   <img src="./screenshots/Auth/Login.png">
    <img src="./screenshots/Auth/signup.png">
    <img src="./screenshots/Auth/OTP.png">
    <img src="./screenshots/Auth/OTP2.png">
-   <img src="./screenshots/Auth/Done OTP.png">
+   <img src="./screenshots/Auth/DoneOTP.png">
    <img src="./screenshots/Auth/Passcode.png">
    <img src="./screenshots/Auth/PasscodeAlert.png">
-   <img src="./screenshots/Auth/1.png">
 
 
 </div>
