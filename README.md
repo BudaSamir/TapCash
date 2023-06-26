@@ -22,7 +22,6 @@
 - [📦 Packages used](#packages-used)
 - [📷 Features](#features)
 - [✍️ Contributors](#contributors)
-- [💻 Presentation](#presentation)
 - [🔒 License](#license)
 </details>
 <hr>
@@ -124,10 +123,15 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>👨‍👨‍👦‍👦 Limit your children access </em></strong></h3>
+<strong><em>👦‍👦 Children Login </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/children.jpg">
+   <img src="./screenshots/ChildrenLogin/ChildrenLogin1.png">
+   <img src="./screenshots/ChildrenLogin/ChildrenLogin2.png">
+   <img src="./screenshots/ChildrenLogin/ChildrenLogin3.png">
+   <img src="./screenshots/ChildrenLogin/ChildrenLogin4.png">
+   <img src="./screenshots/ChildrenLogin/ChildrenLogin5.png">
+   <img src="./screenshots/ChildrenLogin/ChildrenLogin6.png">
 </div>
 
 <summary>
