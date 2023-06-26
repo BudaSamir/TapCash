@@ -123,7 +123,7 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>👦‍👦 Children Login </em></strong></h3>
+<strong><em>👦👧 Children Login </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/ChildrenLogin/ChildrenLogin1.png">
