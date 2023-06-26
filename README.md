@@ -77,7 +77,6 @@
 <strong><em>🔒 User Authentication</em></strong></h3>
 </summary>
 <div align="center">
-
    <img src="./screenshots/Auth/Login.png">
    <img src="./screenshots/Auth/signup.png">
    <img src="./screenshots/Auth/OTP.png">
@@ -85,12 +84,7 @@
    <img src="./screenshots/Auth/DoneOTP.png">
    <img src="./screenshots/Auth/Passcode.png">
    <img src="./screenshots/Auth/PasscodeAlert.png">
-
-
 </div>
-
-
-
 
 <summary>
 <h3 style="display:inline">
@@ -98,7 +92,7 @@
 </summary>
 <div align="center">
 
-   <img src="./screenshots/home.jpg">
+   <img src="./screenshots/home/Home.jpg">
 </div>
 
 <summary>
