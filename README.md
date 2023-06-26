@@ -91,7 +91,6 @@
 <strong><em>🏠 Home</em></strong></h3>
 </summary>
 <div align="center">
-
    <img src="./screenshots/home/Home.png">
 </div>
 
@@ -121,16 +120,6 @@
 
    <img src="./screenshots/elec_bills.jpg">
 </div>
-
-<summary>
-<h3 style="display:inline">
-<strong><em>📇 Scan QR code </em></strong></h3>
-</summary>
-<div align="center">
-
-   <img src="./screenshots/qr.jpg">
-</div>
-
 
 <summary>
 <h3 style="display:inline">
