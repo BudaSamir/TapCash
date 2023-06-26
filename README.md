@@ -91,7 +91,7 @@
 <strong><em>🏠 Home</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/home/Home.png">
+   <img src="./screenshots/home/home.png">
 </div>
 
 <summary>
