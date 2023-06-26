@@ -156,6 +156,17 @@
    <img src="./screenshots/SendMoney/Sendmoney4.png">
 </div>
 
+<summary>
+<h3 style="display:inline">
+<strong><em>💰 Wallet</em></strong></h3>
+</summary>
+<div align="center"> 
+   <img src="./screenshots/Wallet/Wallet1.png">
+   <img src="./screenshots/Wallet/Wallet2.png">
+   <img src="./screenshots/Wallet/Wallet3.png">
+   <img src="./screenshots/Wallet/Wallet4.png">
+</div>
+
 
 <summary>
 <h3 style="display:inline">
