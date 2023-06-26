@@ -92,7 +92,7 @@
 </summary>
 <div align="center">
 
-   <img src="./screenshots/home/Home.jpg">
+   <img src="./screenshots/home/Home.png">
 </div>
 
 <summary>
